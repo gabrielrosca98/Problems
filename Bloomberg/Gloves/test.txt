@@ -1,0 +1,9 @@
+8
+aabbb
+bbbaa
+bbbaa
+aabbb
+cde
+edc
+aaaaaaaaaaa
+bbbbbbb
